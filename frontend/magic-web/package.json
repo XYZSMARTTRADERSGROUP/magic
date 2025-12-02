@@ -101,7 +101,7 @@
 		"idb-keyval": "^6.2.1",
 		"immer": "^10.1.1",
 		"install": "^0.13.0",
-		"js-yaml": "4.1.0",
+		"js-yaml": "4.1.1",
 		"katex": "0.16.21",
 		"keepalive-for-react": "^3.0.8",
 		"libphonenumber-js": "^1.12.7",
