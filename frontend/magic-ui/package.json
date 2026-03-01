@@ -90,7 +90,7 @@
 		"stylelint": "^15.11.0",
 		"terser": "^5.43.1",
 		"typescript": "^5.4.5",
-		"vite": "^6.0.3",
+		"vite": "^6.4.1",
 		"vite-plugin-dts": "^3.0.0",
 		"vitest": "^3.0.7"
 	},
